@@ -5,13 +5,15 @@ I'm Dawon Hong, an aspiring full-stack developer with a strong passion for **web
 
 ---
 
-### 🚀 Skills and Tools
-- **Languages**: JavaScript, Java, Python, SQL
-- **Frontend**: HTML5, CSS3, JavaScript, React
-- **Backend**: Java Spring Boot, Node.js
-- **Databases**: MySQL
-- **DevOps**: Git, GitHub Actions
-- **Cybersecurity**: Network Security, Web Application Security, Cryptography
+### 🛠 Once I've Used
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
