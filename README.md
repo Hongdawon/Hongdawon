@@ -5,7 +5,7 @@ I'm Dawon Hong, an aspiring full-stack developer with a strong passion for **web
 
 ---
 
-### 🛠 Once I've Used
+
 ### 🛠 Technologies I've Worked With
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -17,6 +17,7 @@ I'm Dawon Hong, an aspiring full-stack developer with a strong passion for **web
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  
 </p>
+
 
 
 ---
